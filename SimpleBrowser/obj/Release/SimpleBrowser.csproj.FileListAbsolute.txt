@@ -1,0 +1,14 @@
+W:\session3\persolab\SimpleBrowser\SimpleBrowser\bin\Release\SimpleBrowser.exe.config
+W:\session3\persolab\SimpleBrowser\SimpleBrowser\bin\Release\SimpleBrowser.exe
+W:\session3\persolab\SimpleBrowser\SimpleBrowser\bin\Release\SimpleBrowser.pdb
+W:\session3\persolab\SimpleBrowser\SimpleBrowser\obj\Release\MainWindow.g.cs
+W:\session3\persolab\SimpleBrowser\SimpleBrowser\obj\Release\App.g.cs
+W:\session3\persolab\SimpleBrowser\SimpleBrowser\obj\Release\SimpleBrowser_MarkupCompile.cache
+W:\session3\persolab\SimpleBrowser\SimpleBrowser\obj\Release\SimpleBrowser_MarkupCompile.lref
+W:\session3\persolab\SimpleBrowser\SimpleBrowser\obj\Release\MainWindow.baml
+W:\session3\persolab\SimpleBrowser\SimpleBrowser\obj\Release\SimpleBrowser.g.resources
+W:\session3\persolab\SimpleBrowser\SimpleBrowser\obj\Release\SimpleBrowser.Properties.Resources.resources
+W:\session3\persolab\SimpleBrowser\SimpleBrowser\obj\Release\SimpleBrowser.csproj.GenerateResource.Cache
+W:\session3\persolab\SimpleBrowser\SimpleBrowser\obj\Release\SimpleBrowser.exe
+W:\session3\persolab\SimpleBrowser\SimpleBrowser\obj\Release\SimpleBrowser.pdb
+W:\session3\persolab\SimpleBrowser\SimpleBrowser\obj\Release\SimpleBrowser.csprojResolveAssemblyReference.cache
