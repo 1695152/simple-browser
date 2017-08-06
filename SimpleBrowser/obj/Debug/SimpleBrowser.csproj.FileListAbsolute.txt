@@ -12,6 +12,3 @@ W:\session3\persolab\SimpleBrowser\SimpleBrowser\obj\Debug\SimpleBrowser.csproj.
 W:\session3\persolab\SimpleBrowser\SimpleBrowser\obj\Debug\SimpleBrowser.exe
 W:\session3\persolab\SimpleBrowser\SimpleBrowser\obj\Debug\SimpleBrowser.pdb
 W:\session3\persolab\SimpleBrowser\SimpleBrowser\obj\Debug\SimpleBrowser.csprojResolveAssemblyReference.cache
-W:\GITHUB\simple-browser\SimpleBrowser\bin\Debug\SimpleBrowser.exe.config
-W:\GITHUB\simple-browser\SimpleBrowser\obj\Debug\SimpleBrowser.exe
-W:\GITHUB\simple-browser\SimpleBrowser\obj\Debug\SimpleBrowser.pdb
