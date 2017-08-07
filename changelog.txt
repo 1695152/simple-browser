@@ -1,0 +1,18 @@
+5 août 2017, renaud grondin
+-	code documenté et nettoyé
+-	Changé le homepage pour duck duck go
+-	dorénavant lorsque le url n'est pas valide la requête se transforme en recherche duck duck go
+- 	dorénavant si un prefixe url n'est pas fourni, https est choisit
+
+6 août 2017, renaud grondin
+- 	réglé bug d'affichage du lien basé sur le contenu chargé dans la barre d'adresse
+-	réglé bug sur ouverture de lien vers nouvelle tab
+-	dorénavant le navigateur démarre au maximum des capacités de l'écran
+- 	changé la couleur d'arrière plan et la couleur du label (style GUI)
+
+7 août 2017, renaud grondin
+-	ajouté fonctionalité page precedente, page suivante, bouton acceuil (historique de session)
+-	icone ajouté (https://www.iconfinder.com/icons/1587490/internet_line_icon#size=128) licence: gratuit pour utilisation 	
+	commerciale
+
+

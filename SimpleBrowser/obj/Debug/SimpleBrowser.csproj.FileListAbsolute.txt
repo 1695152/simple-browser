@@ -12,3 +12,9 @@ W:\session3\persolab\SimpleBrowser\SimpleBrowser\obj\Debug\SimpleBrowser.csproj.
 W:\session3\persolab\SimpleBrowser\SimpleBrowser\obj\Debug\SimpleBrowser.exe
 W:\session3\persolab\SimpleBrowser\SimpleBrowser\obj\Debug\SimpleBrowser.pdb
 W:\session3\persolab\SimpleBrowser\SimpleBrowser\obj\Debug\SimpleBrowser.csprojResolveAssemblyReference.cache
+W:\session3\persolab\SimpleBrowser\SimpleBrowser\bin\Debug\SimpleBrowser.exe.manifest
+W:\session3\persolab\SimpleBrowser\SimpleBrowser\bin\Debug\SimpleBrowser.application
+W:\session3\persolab\SimpleBrowser\SimpleBrowser\obj\Debug\SimpleBrowser.exe.manifest
+W:\session3\persolab\SimpleBrowser\SimpleBrowser\obj\Debug\SimpleBrowser.application
+W:\session3\persolab\SimpleBrowser\SimpleBrowser\obj\Debug\SimpleBrowser_Content.g.cs
+W:\session3\persolab\SimpleBrowser\SimpleBrowser\bin\Debug\Microsoft.mshtml.dll

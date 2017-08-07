@@ -5,13 +5,16 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SimpleBrowser"
         mc:Ignorable="d"
-        Title="Simple Browser" Height="768" Width="1024" ResizeMode="NoResize"  FontFamily="Courier New" FontSize="14" Loaded="Fenetre_chargee">
-    <Grid x:Name="grid_principal">
+        Title="Simple Browser" Height="768" Width="1366" ResizeMode="NoResize"  FontFamily="Courier New" FontSize="14" Loaded="Fenetre_chargee" WindowState="Maximized">
+    <Grid x:Name="grid_principal" Background="#333337">
         <Grid x:Name="grid_browsing">
-            <TextBox x:Name="textbox_url" HorizontalAlignment="Left" Height="23" Margin="129,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="787" KeyDown="textbox_url_KeyDown" />
-            <Label x:Name="label" Content="Web link:" HorizontalAlignment="Left" Margin="22,10,0,0" VerticalAlignment="Top" Width="107"/>
-            <WebBrowser x:Name="webBrowser" HorizontalAlignment="Left" Height="688" Margin="0,41,0,0" VerticalAlignment="Top" Width="1008"/>
-            <Button x:Name="btn_aller" Content="Aller" HorizontalAlignment="Left" Margin="933,13,0,0" VerticalAlignment="Top" Width="75" Click="btn_aller_Click"/>
+
+            <TextBox x:Name="textbox_url" HorizontalAlignment="Left" Height="23" Margin="187,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="787" KeyDown="textbox_url_KeyDown" />
+            <WebBrowser x:Name="webBrowser" HorizontalAlignment="Left" Height="688" Margin="10,33,0,0" VerticalAlignment="Top" Width="1340" LoadCompleted="webBrowser_LoadCompleted"/>
+            <Button x:Name="btn_aller" Content="Aller" HorizontalAlignment="Left" Margin="977,10,0,0" VerticalAlignment="Top" Width="75" Click="btn_aller_Click"/>
+            <Button x:Name="btn_historique_precedent" Content="&lt;-" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="21" Click="btn_historique_precedent_Click"/>
+            <Button x:Name="btn_historique_suivant" Content="-&gt;" HorizontalAlignment="Left" Margin="36,10,0,0" VerticalAlignment="Top" Width="21" Click="btn_historique_suivant_Click"/>
+            <Button x:Name="btn_accueil" Content="page d'accueil" HorizontalAlignment="Left" Margin="62,10,0,0" VerticalAlignment="Top" Width="125" Click="btn_accueil_Click"/>
 
         </Grid>
     </Grid>
