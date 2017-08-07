@@ -1,5 +1,5 @@
 # simple-browser
-Mon objectif avec ce projet est d'offrir un navigateur internet facile à utiliser pour les "néophytes" ou simplement ceux qui veulent utiliser un navigateur internet simple sans les options standards qui peuvent être superflus. Mon public cible serait mes grands-parent, ma mère, etc.
+Un navigateur simple, rapide, sans option superflu pour ceux qui aiment ça simple.
 
 Techniquement 
 Un projet WPF qui utilise webBrowser pour afficher une page web
